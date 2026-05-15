@@ -7,9 +7,9 @@ Repositorio Oficial de la asignatura **Aplicaciones Web y Móviles**
 En esta asignatura los estudiantes desarollarán habilidades para el diseño y contruccion de aplicaciones web
 el enfoque de la materia está  basada en:
 
--Desarrollo practico de software.
--Contrucción progresiva de apliaciones reales.
--trabajo colaborativo y resolución de problemas.
+  -Desarrollo practico de software.
+  -Contrucción progresiva de apliaciones reales.
+  -trabajo colaborativo y resolución de problemas.
 
 ## Objetivos de la asignatura
 Al finalizar el curso, el estudiante 
