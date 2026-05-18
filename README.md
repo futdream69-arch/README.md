@@ -12,4 +12,4 @@ el enfoque de la materia está  basada en:
   -trabajo colaborativo y resolución de problemas.
 
 ## Objetivos de la asignatura
-Al finalizar el curso, el estudiante 
+Al finalizar el curso, el estudiante.
